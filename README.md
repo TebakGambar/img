@@ -1,2 +1,0 @@
-# img
-image for aplication
